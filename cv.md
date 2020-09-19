@@ -119,3 +119,22 @@ function RGBtoHEX(R, G, B) {
 	return ("#" + ((1 << 24) + (R << 16) + (G << 8) + B).toString(16).slice(1));
 }
 ```
+
+#### WORK EXPERIENCE
+
+NaN
+
+#### EDUCATION
+
+* 2014-09 – 2018-07
+BUSIR affiliate “Minsk Radioengineering College”
+Thesis title: “Microprocessor-controlled audio power amplifier repair and adjustment guid”
+Thesis supervisor: Docent Boris Danilenko
+
+* 2018-09 – Present
+Belarusian State University of Informatics and Radioelectronics
+
+#### LANGUAGES
+
+English, Русский, Беларуская.
+English level – A2+ (tested by EPAM Training Center).
