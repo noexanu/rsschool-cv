@@ -12,7 +12,7 @@ Minsk, Tikotsky street, build 42, flat 45, 220119, BY
 solonovichyan@gmail.com
 
 ###### Telegram:
-@solonovichyan
+@solonovich_yan
 
 #### SKILLS
 
